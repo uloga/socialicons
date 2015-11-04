@@ -14,5 +14,5 @@ After you get up and running, you can place Decorator Social Icons just about an
 <i class="dc dc-twitter-rounded"></i>
 ```
  
-Visit [Examples For More Info](http://uloga.github.io/socialicons/)
+[Visit Examples For More Info](http://uloga.github.io/socialicons/)
 
