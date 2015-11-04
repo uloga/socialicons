@@ -15,7 +15,7 @@ After you get up and running, you can place Decorator Social Icons just about an
 ```
 SVG FILES
 ---
-All of the svg files are included in svg folder, in case you want to make edit them in Illustrator or embed them into your project.
+All of the svg files are included in svg folder, in case you want to edit them in Illustrator or embed them into your project.
 
 Embeding SVG
 ---
