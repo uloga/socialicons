@@ -1,0 +1,180 @@
+body{
+  background: #fff;
+  font-family: 'Open Sans', sans-serif;
+  text-shadow: none;
+}
+.padder{
+  padding: 10px 0;
+}
+.width{
+  width: 960px;
+  margin: 0 auto;
+}
+/* header */
+.header{
+  background: #2D9E7F;
+  height: 115px;
+}
+.header .first {
+    padding: 7px 0;
+}
+.fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1000;
+    -webkit-transform: translateZ(0);
+}
+.header .brand {
+    padding: 3px 0;
+    font-size: 23px;
+    letter-spacing: -0.5px;
+    line-height: 43px;
+    font-weight: 300;
+    color: #fff;
+    float: left;
+    font-family: 'Open Sans', sans-serif, wf_segoe-ui_light,"Segoe UI Light","Segoe WP Light","Segoe UI","Segoe WP",Tahoma,Arial,sans-serif;
+}
+.header .logo {
+    float: left;
+    width: 43px;
+    margin-right: 5px;
+}
+/* heading */
+.heading {
+  background: #f6f6f6;
+  min-height: 40px;
+  padding: 12px 0;
+  border-bottom: 1px solid #ddd;
+}
+.heading input{
+  height: 32px;
+}
+.heading .formgroup {
+  float: left;
+  margin-right: 15px;
+  padding-top: 7px;
+  cursor: pointer;
+}
+.heading .formgroup input{
+  height: 15px;
+  margin-top: 3px;
+}
+.heading .formgroup label input{
+  float: left;
+}
+/* icons reset */
+.icon-grid li{
+  background: #f6f6f6;
+  padding: 8px;
+  line-height: 28px;
+}
+.icon-grid li{
+  margin-bottom: 5px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: background-color 0.2s ease;
+}
+.icon-grid li:hover{
+  background: #2D9E7F;
+}
+.icon-grid svg{
+  fill: #444;
+}
+.icon-grid li:hover,
+.icon-grid li:hover > span,
+.icon-grid li:hover svg{
+  color: #fff;
+  fill: #fff;
+}
+.icon-grid li:active{
+  background: red;
+}
+.icon-grid span{
+  margin-right: 10px;
+  float: left;
+  color: #484848;
+  font-size: 27px;
+  text-shadow: none !Important;
+  border: none !Important;
+}
+/* radios  */
+label{
+  cursor: pointer;
+}
+input[type="radio"]{
+  display: none;
+}
+input[type="radio"] + .label-text:before{
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border: 1px solid #ccc;
+  border-radius: 122px;
+  margin: 0 4px 0 0;
+  float: left;
+  position: relative;
+  top: 2px;
+  transition: all .4s;
+}
+input[type="radio"]:checked + .label-text:before{
+  content:"";
+  background-color: #38AF8E;
+  border-color: #38AF8E;
+}
+/* wrapper */
+.wrapper{
+  padding-top: 140px;
+  padding-bottom: 50px;
+  min-height: 1100px !important;
+}
+
+/* responsive edits */
+@media (max-width: 800px){
+  
+  .width{
+    width: 100%;
+    padding: 0 15px;
+  }
+  .header .first{
+    padding: 15px;
+  }
+  .heading{
+    width: 100%;
+  }
+  .heading form{
+    margin-top: 15px;
+  }
+  .wrapper{
+    padding-top: 195px;
+  }
+  
+  [class^="grid"] > li,
+    [class^="grid"] > div{
+        width: 49%;
+    }
+    
+    [class^="grid"] > li:nth-child(3n+0),
+    [class^="grid"] > div:nth-child(3n+0){
+        margin-right: 2% !important;
+    }
+    
+    [class^="grid"] > li:nth-child(2n+0),
+    [class^="grid"] > div:nth-child(2n+0){
+        margin-right: 0 !important;
+    }
+}
+
+@media (max-width: 603px){
+    
+    /* -- Grids -- */
+    
+    [class^="grid"] > li,
+    [class^="grid"] > div{
+        width: 100%;
+    }
+    .grid > li, .grid > div{
+        margin: 0 0 4% 0 !important;
+    }
+}
