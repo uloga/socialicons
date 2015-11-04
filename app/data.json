@@ -1,0 +1,1952 @@
+{
+	"icons": [
+		{
+			"order": 239,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59648,
+			"name": "amazon",
+			"tempChar": ""
+		},
+		{
+			"order": 240,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59649,
+			"name": "amazon-round",
+			"tempChar": ""
+		},
+		{
+			"order": 241,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59650,
+			"name": "amazon-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 242,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59651,
+			"name": "amazon-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 243,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59652,
+			"name": "amazon-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 244,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59653,
+			"name": "amazon-square",
+			"tempChar": ""
+		},
+		{
+			"order": 245,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59654,
+			"name": "amazon-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 8,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59655,
+			"name": "android",
+			"tempChar": ""
+		},
+		{
+			"order": 9,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59656,
+			"name": "android-round",
+			"tempChar": ""
+		},
+		{
+			"order": 10,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59657,
+			"name": "android-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 11,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59658,
+			"name": "android-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 12,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59659,
+			"name": "android-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 13,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59660,
+			"name": "android-square",
+			"tempChar": ""
+		},
+		{
+			"order": 14,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59661,
+			"name": "android-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 15,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59662,
+			"name": "apple",
+			"tempChar": ""
+		},
+		{
+			"order": 16,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59663,
+			"name": "apple-round",
+			"tempChar": ""
+		},
+		{
+			"order": 17,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59664,
+			"name": "apple-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 18,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59665,
+			"name": "apple-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 19,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59666,
+			"name": "apple-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 20,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59667,
+			"name": "apple-square",
+			"tempChar": ""
+		},
+		{
+			"order": 21,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59668,
+			"name": "apple-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 22,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59669,
+			"name": "behance",
+			"tempChar": ""
+		},
+		{
+			"order": 23,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59670,
+			"name": "behance-round",
+			"tempChar": ""
+		},
+		{
+			"order": 24,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59671,
+			"name": "behance-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 25,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59672,
+			"name": "behance-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 26,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59673,
+			"name": "behance-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 27,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59674,
+			"name": "behance-square",
+			"tempChar": ""
+		},
+		{
+			"order": 28,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59675,
+			"name": "behance-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 29,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59676,
+			"name": "blogger",
+			"tempChar": ""
+		},
+		{
+			"order": 30,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59677,
+			"name": "blogger-round",
+			"tempChar": ""
+		},
+		{
+			"order": 31,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59678,
+			"name": "blogger-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 32,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59679,
+			"name": "blogger-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 33,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59680,
+			"name": "blogger-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 34,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59681,
+			"name": "blogger-square",
+			"tempChar": ""
+		},
+		{
+			"order": 35,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59682,
+			"name": "blogger-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 36,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59683,
+			"name": "deviantart",
+			"tempChar": ""
+		},
+		{
+			"order": 37,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59684,
+			"name": "deviantart-round",
+			"tempChar": ""
+		},
+		{
+			"order": 38,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59685,
+			"name": "deviantart-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 39,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59686,
+			"name": "deviantart-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 40,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59687,
+			"name": "deviantart-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 41,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59688,
+			"name": "deviantart-square",
+			"tempChar": ""
+		},
+		{
+			"order": 42,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59689,
+			"name": "deviantart-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 43,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59690,
+			"name": "digg",
+			"tempChar": ""
+		},
+		{
+			"order": 44,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59691,
+			"name": "digg-round",
+			"tempChar": ""
+		},
+		{
+			"order": 45,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59692,
+			"name": "digg-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 46,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59693,
+			"name": "digg-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 47,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59694,
+			"name": "digg-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 48,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59695,
+			"name": "digg-square",
+			"tempChar": ""
+		},
+		{
+			"order": 49,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59696,
+			"name": "digg-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 50,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59697,
+			"name": "dribbble",
+			"tempChar": ""
+		},
+		{
+			"order": 51,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59698,
+			"name": "dribbble-round",
+			"tempChar": ""
+		},
+		{
+			"order": 52,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59699,
+			"name": "dribbble-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 53,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59700,
+			"name": "dribbble-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 54,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59701,
+			"name": "dribbble-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 55,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59702,
+			"name": "dribbble-square",
+			"tempChar": ""
+		},
+		{
+			"order": 56,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59703,
+			"name": "dribbble-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 57,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59704,
+			"name": "dropbox",
+			"tempChar": ""
+		},
+		{
+			"order": 58,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59705,
+			"name": "dropbox-round",
+			"tempChar": ""
+		},
+		{
+			"order": 59,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59706,
+			"name": "dropbox-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 60,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59707,
+			"name": "dropbox-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 61,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59708,
+			"name": "dropbox-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 62,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59709,
+			"name": "dropbox-square",
+			"tempChar": ""
+		},
+		{
+			"order": 63,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59710,
+			"name": "dropbox-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 64,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59711,
+			"name": "ebay",
+			"tempChar": ""
+		},
+		{
+			"order": 65,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59712,
+			"name": "ebay-round",
+			"tempChar": ""
+		},
+		{
+			"order": 66,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59713,
+			"name": "ebay-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 67,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59714,
+			"name": "ebay-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 68,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59715,
+			"name": "ebay-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 69,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59716,
+			"name": "ebay-square",
+			"tempChar": ""
+		},
+		{
+			"order": 70,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59717,
+			"name": "ebay-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 71,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59718,
+			"name": "facebook",
+			"tempChar": ""
+		},
+		{
+			"order": 72,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59719,
+			"name": "facebook-round",
+			"tempChar": ""
+		},
+		{
+			"order": 73,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59720,
+			"name": "facebook-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 74,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59721,
+			"name": "facebook-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 75,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59722,
+			"name": "facebook-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 76,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59723,
+			"name": "facebook-square",
+			"tempChar": ""
+		},
+		{
+			"order": 77,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59724,
+			"name": "facebook-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 78,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59725,
+			"name": "flickr",
+			"tempChar": ""
+		},
+		{
+			"order": 79,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59726,
+			"name": "flickr-round",
+			"tempChar": ""
+		},
+		{
+			"order": 80,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59727,
+			"name": "flickr-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 81,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59728,
+			"name": "flickr-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 82,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59729,
+			"name": "flickr-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 83,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59730,
+			"name": "flickr-square",
+			"tempChar": ""
+		},
+		{
+			"order": 84,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59731,
+			"name": "flickr-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 85,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59732,
+			"name": "forrst",
+			"tempChar": ""
+		},
+		{
+			"order": 86,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59733,
+			"name": "forrst-round",
+			"tempChar": ""
+		},
+		{
+			"order": 87,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59734,
+			"name": "forrst-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 88,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59735,
+			"name": "forrst-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 89,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59736,
+			"name": "forrst-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 90,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59737,
+			"name": "forrst-square",
+			"tempChar": ""
+		},
+		{
+			"order": 91,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59738,
+			"name": "forrst-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 92,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59739,
+			"name": "gdrive",
+			"tempChar": ""
+		},
+		{
+			"order": 93,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59740,
+			"name": "gdrive-round",
+			"tempChar": ""
+		},
+		{
+			"order": 94,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59741,
+			"name": "gdrive-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 95,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59742,
+			"name": "gdrive-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 96,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59743,
+			"name": "gdrive-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 97,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59744,
+			"name": "gdrive-square",
+			"tempChar": ""
+		},
+		{
+			"order": 98,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59745,
+			"name": "gdrive-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 99,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59746,
+			"name": "github",
+			"tempChar": ""
+		},
+		{
+			"order": 100,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59747,
+			"name": "github-round",
+			"tempChar": ""
+		},
+		{
+			"order": 101,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59748,
+			"name": "github-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 102,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59749,
+			"name": "github-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 103,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59750,
+			"name": "github-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 104,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59751,
+			"name": "github-square",
+			"tempChar": ""
+		},
+		{
+			"order": 105,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59752,
+			"name": "github-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 106,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59753,
+			"name": "gplus",
+			"tempChar": ""
+		},
+		{
+			"order": 107,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59754,
+			"name": "gplus-round",
+			"tempChar": ""
+		},
+		{
+			"order": 108,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59755,
+			"name": "gplus-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 109,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59756,
+			"name": "gplus-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 110,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59757,
+			"name": "gplus-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 111,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59758,
+			"name": "gplus-square",
+			"tempChar": ""
+		},
+		{
+			"order": 112,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59759,
+			"name": "gplus-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 113,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59760,
+			"name": "instagram",
+			"tempChar": ""
+		},
+		{
+			"order": 114,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59761,
+			"name": "instagram-round",
+			"tempChar": ""
+		},
+		{
+			"order": 115,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59762,
+			"name": "instagram-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 116,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59763,
+			"name": "instagram-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 117,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59764,
+			"name": "instagram-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 118,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59765,
+			"name": "instagram-square",
+			"tempChar": ""
+		},
+		{
+			"order": 119,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59766,
+			"name": "instagram-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 120,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59767,
+			"name": "lastfm",
+			"tempChar": ""
+		},
+		{
+			"order": 121,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59768,
+			"name": "lastfm-round",
+			"tempChar": ""
+		},
+		{
+			"order": 122,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59769,
+			"name": "lastfm-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 123,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59770,
+			"name": "lastfm-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 124,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59771,
+			"name": "lastfm-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 125,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59772,
+			"name": "lastfm-square",
+			"tempChar": ""
+		},
+		{
+			"order": 126,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59773,
+			"name": "lastfm-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 127,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59774,
+			"name": "linkedin",
+			"tempChar": ""
+		},
+		{
+			"order": 128,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59775,
+			"name": "linkedin-round",
+			"tempChar": ""
+		},
+		{
+			"order": 129,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59776,
+			"name": "linkedin-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 130,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59777,
+			"name": "linkedin-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 131,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59778,
+			"name": "linkedin-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 132,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59779,
+			"name": "linkedin-square",
+			"tempChar": ""
+		},
+		{
+			"order": 133,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59780,
+			"name": "linkedin-square-boerder",
+			"tempChar": ""
+		},
+		{
+			"order": 134,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59781,
+			"name": "picasa",
+			"tempChar": ""
+		},
+		{
+			"order": 135,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59782,
+			"name": "picasa-round",
+			"tempChar": ""
+		},
+		{
+			"order": 136,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59783,
+			"name": "picasa-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 137,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59784,
+			"name": "picasa-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 138,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59785,
+			"name": "picasa-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 139,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59786,
+			"name": "picasa-square",
+			"tempChar": ""
+		},
+		{
+			"order": 140,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59787,
+			"name": "picasa-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 141,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59788,
+			"name": "pinterest",
+			"tempChar": ""
+		},
+		{
+			"order": 142,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59789,
+			"name": "pinterest-round",
+			"tempChar": ""
+		},
+		{
+			"order": 143,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59790,
+			"name": "pinterest-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 144,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59791,
+			"name": "pinterest-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 145,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59792,
+			"name": "pinterest-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 146,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59793,
+			"name": "pinterest-square",
+			"tempChar": ""
+		},
+		{
+			"order": 147,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59794,
+			"name": "pinterest-squared-border",
+			"tempChar": ""
+		},
+		{
+			"order": 148,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59795,
+			"name": "reddit",
+			"tempChar": ""
+		},
+		{
+			"order": 149,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59796,
+			"name": "reddit-round",
+			"tempChar": ""
+		},
+		{
+			"order": 150,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59797,
+			"name": "reddit-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 151,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59798,
+			"name": "reddit-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 152,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59799,
+			"name": "reddit-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 153,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59800,
+			"name": "reddit-square",
+			"tempChar": ""
+		},
+		{
+			"order": 154,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59801,
+			"name": "reddit-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 155,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59802,
+			"name": "rss",
+			"tempChar": ""
+		},
+		{
+			"order": 156,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59803,
+			"name": "rss-round",
+			"tempChar": ""
+		},
+		{
+			"order": 157,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59804,
+			"name": "rss-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 158,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59805,
+			"name": "rss-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 159,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59806,
+			"name": "rss-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 160,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59807,
+			"name": "rss-square",
+			"tempChar": ""
+		},
+		{
+			"order": 161,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59808,
+			"name": "rss-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 162,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59809,
+			"name": "skype",
+			"tempChar": ""
+		},
+		{
+			"order": 163,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59810,
+			"name": "skype-round",
+			"tempChar": ""
+		},
+		{
+			"order": 164,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59811,
+			"name": "skype-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 165,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59812,
+			"name": "skype-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 166,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59813,
+			"name": "skype-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 167,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59814,
+			"name": "skype-square",
+			"tempChar": ""
+		},
+		{
+			"order": 168,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59815,
+			"name": "skype-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 169,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59816,
+			"name": "soundcloud",
+			"tempChar": ""
+		},
+		{
+			"order": 170,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59817,
+			"name": "soundcloud-round",
+			"tempChar": ""
+		},
+		{
+			"order": 171,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59818,
+			"name": "soundcloud-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 172,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59819,
+			"name": "soundcloud-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 173,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59820,
+			"name": "soundcloud-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 174,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59821,
+			"name": "soundcloud-square",
+			"tempChar": ""
+		},
+		{
+			"order": 175,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59822,
+			"name": "soundcloud-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 176,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59823,
+			"name": "stumbleupon",
+			"tempChar": ""
+		},
+		{
+			"order": 177,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59824,
+			"name": "stumbleupon-round",
+			"tempChar": ""
+		},
+		{
+			"order": 178,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59825,
+			"name": "stumbleupon-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 179,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59826,
+			"name": "stumbleupon-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 180,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59827,
+			"name": "stumbleupon-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 181,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59828,
+			"name": "stumbleupon-square",
+			"tempChar": ""
+		},
+		{
+			"order": 182,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59829,
+			"name": "stumbleupon-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 183,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59830,
+			"name": "tumblr",
+			"tempChar": ""
+		},
+		{
+			"order": 184,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59831,
+			"name": "tumblr-round",
+			"tempChar": ""
+		},
+		{
+			"order": 185,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59832,
+			"name": "tumblr-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 186,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59833,
+			"name": "tumblr-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 187,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59834,
+			"name": "tumblr-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 188,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59835,
+			"name": "tumblr-square",
+			"tempChar": ""
+		},
+		{
+			"order": 189,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59836,
+			"name": "tumblr-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 190,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59837,
+			"name": "twitter",
+			"tempChar": ""
+		},
+		{
+			"order": 191,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59838,
+			"name": "twitter-round",
+			"tempChar": ""
+		},
+		{
+			"order": 192,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59839,
+			"name": "twitter-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 193,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59840,
+			"name": "twitter-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 194,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59841,
+			"name": "twitter-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 195,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59842,
+			"name": "twitter-square",
+			"tempChar": ""
+		},
+		{
+			"order": 196,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59843,
+			"name": "twitter-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 197,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59844,
+			"name": "vimeo",
+			"tempChar": ""
+		},
+		{
+			"order": 198,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59845,
+			"name": "vimeo-round",
+			"tempChar": ""
+		},
+		{
+			"order": 199,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59846,
+			"name": "vimeo-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 200,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59847,
+			"name": "vimeo-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 201,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59848,
+			"name": "vimeo-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 202,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59849,
+			"name": "vimeo-square",
+			"tempChar": ""
+		},
+		{
+			"order": 203,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59850,
+			"name": "vimeo-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 204,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59851,
+			"name": "vine",
+			"tempChar": ""
+		},
+		{
+			"order": 205,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59852,
+			"name": "vine-round",
+			"tempChar": ""
+		},
+		{
+			"order": 206,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59853,
+			"name": "vine-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 207,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59854,
+			"name": "vine-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 208,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59855,
+			"name": "vine-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 209,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59856,
+			"name": "vine-square",
+			"tempChar": ""
+		},
+		{
+			"order": 210,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59857,
+			"name": "vine-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 211,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59858,
+			"name": "windows",
+			"tempChar": ""
+		},
+		{
+			"order": 212,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59859,
+			"name": "windows-round",
+			"tempChar": ""
+		},
+		{
+			"order": 213,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59860,
+			"name": "windows-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 214,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59861,
+			"name": "windows-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 215,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59862,
+			"name": "windows-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 216,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59863,
+			"name": "windows-square",
+			"tempChar": ""
+		},
+		{
+			"order": 217,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59864,
+			"name": "windows-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 218,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59865,
+			"name": "wordpress",
+			"tempChar": ""
+		},
+		{
+			"order": 219,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59866,
+			"name": "wordpress-round",
+			"tempChar": ""
+		},
+		{
+			"order": 220,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59867,
+			"name": "wordpress-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 221,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59868,
+			"name": "wordpress-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 222,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59869,
+			"name": "wordpress-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 223,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59870,
+			"name": "wordpress-square",
+			"tempChar": ""
+		},
+		{
+			"order": 224,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59871,
+			"name": "wordpress-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 225,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59872,
+			"name": "yahoo",
+			"tempChar": ""
+		},
+		{
+			"order": 226,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59873,
+			"name": "yahoo-round",
+			"tempChar": ""
+		},
+		{
+			"order": 227,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59874,
+			"name": "yahoo-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 228,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59875,
+			"name": "yahoo-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 229,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59876,
+			"name": "yahoo-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 230,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59877,
+			"name": "yahoo-square",
+			"tempChar": ""
+		},
+		{
+			"order": 231,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59878,
+			"name": "yahoo-square-border",
+			"tempChar": ""
+		},
+		{
+			"order": 232,
+			"id": 6,
+			"prevSize": 32,
+			"code": 59879,
+			"name": "youtube",
+			"tempChar": ""
+		},
+		{
+			"order": 233,
+			"id": 5,
+			"prevSize": 32,
+			"code": 59880,
+			"name": "youtube-round",
+			"tempChar": ""
+		},
+		{
+			"order": 234,
+			"id": 4,
+			"prevSize": 32,
+			"code": 59881,
+			"name": "youtube-round-border",
+			"tempChar": ""
+		},
+		{
+			"order": 235,
+			"id": 3,
+			"prevSize": 32,
+			"code": 59882,
+			"name": "youtube-rounded",
+			"tempChar": ""
+		},
+		{
+			"order": 236,
+			"id": 2,
+			"prevSize": 32,
+			"code": 59883,
+			"name": "youtube-rounded-border",
+			"tempChar": ""
+		},
+		{
+			"order": 237,
+			"id": 1,
+			"prevSize": 32,
+			"code": 59884,
+			"name": "youtube-square",
+			"tempChar": ""
+		},
+		{
+			"order": 238,
+			"id": 0,
+			"prevSize": 32,
+			"code": 59885,
+			"name": "youtube-square-border",
+			"tempChar": ""
+		}
+	],
+	"colorThemes": [],
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "dc-",
+			"metadata": {
+				"fontFamily": "dcSocial",
+				"majorVersion": 1,
+				"minorVersion": 0,
+				"fontURL": "http://decorator.io/social-icons",
+				"description": "Decorator Front End : Social Icons",
+				"copyright": "Alan Muselitch",
+				"designer": "Alan Muselitch",
+				"designerURL": "http://twitter.com/_uloga",
+				"license": "MIT",
+				"licenseURL": "https://github.com/uloga/socialicons/blob/master/license.txt"
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"embed": false,
+			"showSelector": true,
+			"showMetrics": true,
+			"selector": "class",
+			"classSelector": ".dc",
+			"showMetadata": true,
+			"resetPoint": 59648
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215
+		},
+		"historySize": 100,
+		"showCodes": true
+	},
+	"IcoMoonType": "icon-set"
+}
