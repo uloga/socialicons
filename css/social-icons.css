@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'dcSocial';
-	src:url('../fonts/dcSocial.eot');
-	src:url('../fonts/dcSocial.eot') format('embedded-opentype'),
-		url('../fonts/dcSocial.ttf') format('truetype'),
-		url('../fonts/dcSocial.woff') format('woff'),
-		url('../fonts/dcSocial.svg') format('svg');
+	src:url('http://uloga.github.io/socialicons/fonts/dcSocial.eot');
+	src:url('http://uloga.github.io/socialicons/fonts/dcSocial.eot') format('embedded-opentype'),
+		url('http://uloga.github.io/socialicons/fonts/dcSocial.ttf') format('truetype'),
+		url('http://uloga.github.io/socialicons/fonts/dcSocial.woff') format('woff'),
+		url('http://uloga.github.io/socialicons/fonts/dcSocial.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
