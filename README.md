@@ -19,7 +19,7 @@ All of the svg files are included in svg folder, in case you want to make edit t
 
 Embeding SVG
 ---
-The ```<object>``` tag is the primary way to include an external SVG file. The main advantage of using this tag is that there is a natural mechanism for displaying a fallback in case the SVG is not rendered. The tag requires defining a data attribute which is the location of the SVG file, normally a relative path. Defining the type attribute is highly recommended as it allows browsers to avoid downloading content they do not support. For SVG the type is "image/svg+xml". If the SVG is not rendered, the browser will try to render the content between the opening ```<object>``` and closing ```</object>``` tags. A PNG version of the SVG would normally be a good choice to put here
+The ```<object>``` tag is the primary way to include an external SVG file. The main advantage of using this tag is that there is a natural mechanism for displaying a fallback in case the SVG is not rendered. The tag requires defining a data attribute which is the location of the SVG file, normally a relative path. Defining the type attribute is highly recommended as it allows browsers to avoid downloading content they do not support. For SVG the type is "image/svg+xml". If the SVG is not rendered, the browser will try to render the content between the opening ```<object>``` and closing ```</object>``` tags. A PNG version of the SVG would normally be a good choice to put here. You can use included svg files in Illustrator to generate .png icons for fallback. 
 
 ```
 <object type="image/svg+xml" data="icon.svg">
