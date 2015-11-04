@@ -13,6 +13,8 @@ After you get up and running, you can place Decorator Social Icons just about an
 ```
 <i class="dc dc-twitter-rounded"></i>
 ```
+ ## SVG FILES
+All of the svg files are included in svg folder, in case you want to make edit them in Illustrator.
  
 [Visit Examples For More Info](http://uloga.github.io/socialicons/)
 
