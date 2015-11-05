@@ -87,9 +87,6 @@ body{
   color: #fff;
   fill: #fff;
 }
-.icon-grid li:active{
-  background: red;
-}
 .icon-grid span{
   margin-right: 10px;
   float: left;
