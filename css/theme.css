@@ -72,6 +72,7 @@ body{
 .icon-grid li{
   margin-bottom: 5px;
   border-radius: 3px;
+  cursor: grab;
   transition: background-color 0.2s ease;
 }
 .icon-grid li:hover{
