@@ -71,7 +71,6 @@ body{
 }
 .icon-grid li{
   margin-bottom: 5px;
-  cursor: pointer;
   border-radius: 3px;
   transition: background-color 0.2s ease;
 }
