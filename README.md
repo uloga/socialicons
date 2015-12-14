@@ -1,4 +1,4 @@
-# Decorator Social SVG Icons
+# Social SVG Icons
 
 Getting Started:
 ---
