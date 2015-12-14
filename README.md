@@ -27,5 +27,5 @@ The ```<object>``` tag is the primary way to include an external SVG file. The m
 </object>
 ```
  
-[View Examples](http://uloga.github.io/socialicons/)
+[Click Here To View Live Examples](http://uloga.github.io/socialicons/)
 
