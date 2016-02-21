@@ -1,4 +1,5 @@
 # Social SVG Icons
+[Click Here To View Live Examples](http://uloga.github.io/socialicons/)
 
 Getting Started:
 ---
@@ -26,6 +27,5 @@ The ```<object>``` tag is the primary way to include an external SVG file. The m
       <img src="icon.png" alt="Decorator Social Icon"/>
 </object>
 ```
- 
-[Click Here To View Live Examples](http://uloga.github.io/socialicons/)
+
 
